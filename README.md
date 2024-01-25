@@ -48,7 +48,7 @@ Tech Stacks = ["ReactJs", "NextJs", "NodeJs", "Tailwind CSS", "Bootstrap"]
 
 
 
-<h1 align="left"> 🗣 Socials : </h1>
+<h1 align="left"> 🗣 Connect with me : </h1>
 
 <div align="center">
      
