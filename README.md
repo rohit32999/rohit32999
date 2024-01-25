@@ -34,13 +34,11 @@ Tech Stacks = ["ReactJs", "NextJs", "NodeJs", "Tailwind CSS", "Bootstrap"]
 
 
 
-<div align="center">
 <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/rohit32999/rohit32999/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
 </div>
-<br>
 
 
 
