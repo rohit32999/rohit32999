@@ -22,7 +22,7 @@ Tech Stacks = ["ReactJs", "NextJs", "NodeJs", "Tailwind CSS", "Bootstrap"]
 
 
 
-# 👨‍💻 Tech Stack :
+# 👨‍💻 Tech Stacks :
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,html,css,java" />
