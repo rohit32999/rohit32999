@@ -10,14 +10,14 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F7D229&center=true&random=false&width=435&lines=Hi%2C+I'm+Rohit+Chakrabarti.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F7D229&center=true&random=false&width=435&lines=Hi%2CHello+I'm+Rohit+Chakrabarti.)](https://git.io/typing-svg)
 
 
 
 
 
 # 💫 About Me:
- 🌱 I'm Rohit Chakrabarti from West Bengal, India. I am pursuing B.Tech degree in Computer Science Engineering from the Academy of Technology(AOT).  I am into web designing and development. I also have a knack for problem solving and competitive coding. Besides, I also love cricket and have a passion for photography. <br><br>📫 How to reach me **rohitchakrabarti6560@gmail.com**<br><br> 
+ 🌱 I'm Rohit Chakrabarti from West Bengal, India. I am pursuing B.Tech degree in Computer Science Engineering from the Academy of Technology (AOT).  I am into web designing and development. I also have a knack for problem solving and competitive coding. Besides, I also love cricket and have a passion for photography. <br><br>📫 How to reach me **rohitchakrabarti6560@gmail.com**<br><br> 
 
 
 
