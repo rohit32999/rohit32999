@@ -94,7 +94,7 @@ Tech Stacks = ["ReactJs", "NextJs", "NodeJs", "Tailwind CSS", "Bootstrap"]
 </picture>
 
 <div align="center">
-<h2>GitHub Stats</h2>
+<h2>⚡GitHub Stats</h2>
 <p><img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=rohit32999&show_icons=true&rank_icon=github&theme=radical&card_width=320" /></p>
 <br>
 
