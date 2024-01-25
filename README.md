@@ -94,7 +94,7 @@ Tech Stacks = ["ReactJs", "NextJs", "NodeJs", "Tailwind CSS", "Bootstrap"]
 </picture>
 
 <div align="center">
-<h2>⚡GitHub Stats</h2>
+<h2>⚡GitHub Stats :</h2>
 <p><img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=rohit32999&show_icons=true&rank_icon=github&theme=radical&card_width=320" /></p>
 <br>
 
@@ -103,7 +103,7 @@ Tech Stacks = ["ReactJs", "NextJs", "NodeJs", "Tailwind CSS", "Bootstrap"]
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohit32999&theme=radical" alt="Rohit" /></p>
 <br>
 
-### 🔝 Top Contributed Repo
+### 🔝 Top Contributed Repo :
 ![](https://github-contributor-stats.vercel.app/api?username=rohit32999&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 <h1 align="left"> :trophy: Github Trophies : </h1>
