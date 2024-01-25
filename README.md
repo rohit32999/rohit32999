@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 <h2 align="center">A Passionate Web Developer :computer: from India</h2>
 
 <!-- GIF -->
-<img align="center" height="300" width="500" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
+<img align="center" height="300" width="300" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
 
 <br/>
 
@@ -27,8 +27,6 @@ Tech Stacks = ["ReactJs", "NextJs", "NodeJs", "Tailwind CSS", "Bootstrap"]
   
 [![coding speed x 1000](/images/187495.gif)](https://github.com/rohit32999)
 </div> !-->
-
-<img src="https://raw.githubusercontent.com/rohit32999/rohit32999/output/snake.svg" alt="Snake animation" />
 
 
 # 👨‍💻 Languages and Tech Stacks :
