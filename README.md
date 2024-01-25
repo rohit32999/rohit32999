@@ -9,14 +9,14 @@ You can click the Preview link to take a look at your changes.
 
 
 ```python
-Name = "Aditya Seth"
-Interests = ["Coding", "Cryptography", "Problem Solving", "Graphic Editing", "Photography", "Exploring various OS :)"]
-Languages = ["C", "C++", "Python", "HTML", "CSS", "Kotlin"]
-OS = ["Zorin", "Ubuntu", "BlackArch", "Nitrux", "Windows", "Elementary OS", "Kali Linux", "Ubuntu Unity", "Manjaro", "Arch"]
+Name = "Rohit Chakrabarti"
+Interests = ["Coding", "Problem Solving", "Graphic Editing", "Photography"]
+Languages = ["C", "C++", "Python", "Java", "HTML", "CSS", "JavaScript"]
+Tech Stacks = ["ReactJs", "NextJs", "NodeJs", "Tailwind CSS", "Bootstrap"]
 ```
 <!-- <div align=center>
   
-[![coding speed x 1000](/images/187495.gif)](https://github.com/AdityaSeth777)
+[![coding speed x 1000](/images/187495.gif)](https://github.com/rohit32999)
 </div> !-->
 
 
