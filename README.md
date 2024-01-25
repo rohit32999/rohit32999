@@ -72,27 +72,6 @@ Tech Stacks = ["ReactJs", "NextJs", "NodeJs", "Tailwind CSS", "Bootstrap"]
   </div>
 
 
-
-
-
-
-
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-</picture>
-
 <div align="center">
 <h2>⚡GitHub Stats :</h2>
 <p><img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=rohit32999&show_icons=true&rank_icon=github&theme=radical&card_width=320" /></p>
