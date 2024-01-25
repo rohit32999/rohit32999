@@ -5,11 +5,7 @@ rohit32999/rohit32999 is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F7D229&center=true&random=false&width=435&lines=Hi%2C+I'm+Rohit+Chakrabarti.)](https://git.io/typing-svg)
-
-
-
 
 
 # 💫 About Me:
