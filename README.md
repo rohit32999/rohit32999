@@ -92,5 +92,15 @@ You can click the Preview link to take a look at your changes.
 
 ![](https://github-profile-trophy.vercel.app/?username=rohit32999&theme=onestar&no-frame=true&no-bg=false&margin-w=4)
 
+<h2>GitHub Stats</h2>
+<img align="right" width=320px border-radius="5 px" alt="Bunny" src="https://media.tenor.com/OrSyAesEiZQAAAAi/lovely-tuji-bunny.gif" />
+<p><img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=rohit32999&show_icons=true&rank_icon=github&theme=radical&card_width=320" /></p>
+<br>
+
+<p>&nbsp;<img height=200 width=320 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohit32999&show_icons=true&theme=radical&locale=en&layout=compact" alt="Rohit" /> </p>
+<br>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohit32999&theme=radical" alt="Rohit" /></p>
+<br>
+
 </div>
 
