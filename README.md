@@ -8,6 +8,8 @@ You can click the Preview link to take a look at your changes.
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Rohit+Chakrabarti!;" />
 </h1>
+<!-- GIF -->
+<img align="right" height="300" width="500" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
 
 <h2 align="center">A Passionate Web Developer :computer: from India</h2>
 
