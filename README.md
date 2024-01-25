@@ -28,7 +28,7 @@ Tech Stacks = ["ReactJs", "NextJs", "NodeJs", "Tailwind CSS", "Bootstrap"]
 <!-- GIF -->
 ![MasterHead](https://github.com/souradeep-mukherjee/souradeep-mukherjee/blob/main/readme_gif.gif)
 
-<br/>
+
 
 
 # ⚒️ Languages and Frameworks :
