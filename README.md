@@ -9,7 +9,7 @@ You can click the Preview link to take a look at your changes.
 
 
 # 💫 About Me:
- 🌱 I'm Rohit Chakrabarti from West Bengal, India. I am pursuing B.Tech degree in Computer Science Engineering from the Academy of Technology (AOT).  I am into web designing and development. I also have a knack for problem solving and competitive coding. Besides, I love cricket and have a passion for photography too. <br><br>📫 How to reach me **rohitchakrabarti6560@gmail.com**<br><br> 
+ 🌱 Greetings everyone, Rohit this side. I am pursuing B.Tech degree in Computer Science Engineering from the Academy of Technology (AOT).  I am into web designing and development. I also have a knack for problem solving and competitive coding. Besides, I love cricket and have a passion for photography too. <br><br>📫 How to reach me **rohitchakrabarti6560@gmail.com**<br><br> 
 
 
 
