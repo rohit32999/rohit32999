@@ -25,7 +25,7 @@ Tech Stacks = ["ReactJs", "NextJs", "NodeJs", "Tailwind CSS", "Bootstrap"]
 [![coding speed x 1000](/images/187495.gif)](https://github.com/rohit32999)
 </div> !-->
 
-
+<img src="https://raw.githubusercontent.com/rohit32999/rohit32999/output/snake.svg" alt="Snake animation" />
 
 
 # 👨‍💻 Languages and Tech Stacks :
