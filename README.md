@@ -10,6 +10,7 @@ You can click the Preview link to take a look at your changes.
 </h1>
 <!-- GIF -->
 <img align="right" height="300" width="500" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
+<br>
 
 <h2 align="center">A Passionate Web Developer :computer: from India</h2>
 
