@@ -8,9 +8,6 @@ You can click the Preview link to take a look at your changes.
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F7D229&center=true&random=false&width=435&lines=I'm+Rohit+Chakrabarti.)](https://git.io/typing-svg)
 
 
-# 💫 About Me:
- 🌱 Greetings everyone, Rohit this side. I am pursuing B.Tech degree in Computer Science Engineering the Academy of Technology (AOT).  I am into web designing and development. I also have a knack for problem solving and competitive coding. Besides, I love cricket and have a passion for photography too. <br><br>📫 How to reach me **rohitchakrabarti6560@gmail.com**<br><br> 
-
 ```python
 Name = "Aditya Seth"
 Interests = ["Coding", "Cryptography", "Problem Solving", "Graphic Editing", "Photography", "Exploring various OS :)"]
@@ -21,6 +18,7 @@ OS = ["Zorin", "Ubuntu", "BlackArch", "Nitrux", "Windows", "Elementary OS", "Kal
   
 [![coding speed x 1000](/images/187495.gif)](https://github.com/AdityaSeth777)
 </div> !-->
+
 
 
 
