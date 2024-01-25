@@ -11,12 +11,6 @@ You can click the Preview link to take a look at your changes.
 
 <h2 align="center">A Passionate Web Developer :computer: from India</h2>
 
-<!-- GIF -->
-![MasterHead](https://github.com/souradeep-mukherjee/souradeep-mukherjee/blob/main/readme_gif.gif)
-
-<br/>
-
-
 ```python
 Name = "Rohit Chakrabarti"
 Interests = ["Coding", "Problem Solving", "Graphic Editing", "Photography"]
@@ -27,6 +21,14 @@ Tech Stacks = ["ReactJs", "NextJs", "NodeJs", "Tailwind CSS", "Bootstrap"]
   
 [![coding speed x 1000](/images/187495.gif)](https://github.com/rohit32999)
 </div> !-->
+
+<!-- GIF -->
+![MasterHead](https://github.com/souradeep-mukherjee/souradeep-mukherjee/blob/main/readme_gif.gif)
+
+<br/>
+
+
+
 
 <div align="center">
 <br>
