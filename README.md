@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 <h2 align="center">A Passionate Web Developer :computer: from India</h2>
 
 <!-- GIF -->
-<img align="center" height="300" width="500" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
+![MasterHead](https://github.com/souradeep-mukherjee/souradeep-mukherjee/blob/main/readme_gif.gif)
 
 <br/>
 
