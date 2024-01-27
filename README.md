@@ -32,7 +32,7 @@ Tech Stacks = ["ReactJs", "NextJs", "NodeJs", "Tailwind CSS", "Bootstrap"]
 <br>
 
 <!-- GIF -->
-![MasterHead](https://github.com/rohit32999/rohit32999/blob/main/JavaScript.gif.gif)
+<img align="center" height="300" width="500" src="<img align="center" height="1600" width="700" src="https://github.com/rohit32999/rohit32999/blob/main/JavaScript.gif.gif"/>
 
 
 
