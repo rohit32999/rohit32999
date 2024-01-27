@@ -9,6 +9,8 @@ You can click the Preview link to take a look at your changes.
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Rohit+Chakrabarti!;" />
 </h1>
 <div>
+    
+![thoughtworks-gif_dribbble](https://github.com/rohit32999/rohit32999/assets/97951485/50da2c83-8be5-455b-ae15-2ca71ec3e91e)
 
 <img align="center" height="300" width="500" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif"/>
 </div>
