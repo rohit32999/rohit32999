@@ -32,7 +32,8 @@ Tech Stacks = ["ReactJs", "NextJs", "NodeJs", "Tailwind CSS", "Bootstrap"]
 <br>
 
 <!-- GIF -->
-![MasterHead](https://github.com/rohit32999/rohit32999/blob/main/JavaScript.gif.gif)
+![JavaScript](https://github.com/rohit32999/rohit32999/assets/97951485/bf08f648-6ff2-4fd6-8b31-496fab371713)
+
 
 
 
