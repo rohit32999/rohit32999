@@ -9,7 +9,9 @@ You can click the Preview link to take a look at your changes.
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Rohit+Chakrabarti!;" />
 </h1>
 <div align="center">
-<img align="center" height="300" width="500" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif"/>
+    
+![giphy](https://github.com/rohit32999/rohit32999/assets/97951485/4a9df033-b019-441a-ba5a-1d4d9a111860)
+
 </div>
 <!-- GIF -->
 
@@ -32,9 +34,6 @@ Tech Stacks = ["ReactJs", "NextJs", "NodeJs", "Tailwind CSS", "Bootstrap"]
 
 <!-- GIF -->
 ![JavaScript](https://github.com/rohit32999/rohit32999/assets/97951485/bf08f648-6ff2-4fd6-8b31-496fab371713)
-
-![giphy](https://github.com/rohit32999/rohit32999/assets/97951485/4a9df033-b019-441a-ba5a-1d4d9a111860)
-
 
 
 # ⚒️ Tools, Languages and Frameworks :
