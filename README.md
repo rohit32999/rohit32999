@@ -77,10 +77,5 @@ Tech Stacks = ["ReactJs", "NextJs", "NodeJs", "Tailwind CSS", "Bootstrap"]
   
   </div>
 
-<h1 align="left"> :trophy: Github Trophies : </h1>
-
-![](https://github-profile-trophy.vercel.app/?username=rohit32999&theme=onestar&no-frame=true&no-bg=false&margin-w=4)
-
-
 </div>
 
