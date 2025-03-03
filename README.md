@@ -17,7 +17,7 @@ You can click the Preview link to take a look at your changes.
 
 
 
-<h2 align="center">Gen-Z Developer from India :computer:</h2>
+<h2 align="center">Gen-Z Developer from 🇮🇳:</h2>
 
 ```python
 Name = "Rohit Chakrabarti"
