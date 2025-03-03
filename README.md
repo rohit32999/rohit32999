@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
 <!-- GIF -->
 
 
-<h2 align="center">Gen-Z Developer from India &#127470;&#127475; 💻</h2>
+<h2 align="center">Gen-Z Developer from India 💻</h2>
 
 
 
