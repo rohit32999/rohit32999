@@ -16,7 +16,8 @@ You can click the Preview link to take a look at your changes.
 <!-- GIF -->
 
 
-<h2 align="center">Gen-Z Developer from India 💻</h2>
+<h2 align="center">Gen-Z Developer from India <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1ee-1f1f3.svg" width="24px"/> 💻</h2>
+
 
 
 ```python
