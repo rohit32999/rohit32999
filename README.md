@@ -23,7 +23,7 @@ You can click the Preview link to take a look at your changes.
 
 ```python
 Name = "Rohit Chakrabarti"
-Interests = ["Coding", "Problem Solving", "Graphic Editing", "Photography"]
+Interests = ["Coding", "Problem Solving", "Graphic Editing", "Photography", "Sports"]
 Languages = ["C", "C++", "Python", "Java", "HTML", "CSS", "JavaScript"]
 Tech Stacks = ["ReactJs", "NextJs", "NodeJs", "Tailwind CSS", "Bootstrap"]
 ```
