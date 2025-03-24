@@ -17,7 +17,7 @@ You can click the Preview link to take a look at your changes.
 <!-- GIF -->
 
 
-<h2 align="center">A Tech Enthusiast from India 💻</h2>
+<h2 align="center">A Tech Enthusiast from India.. 💻</h2>
 
 
 
