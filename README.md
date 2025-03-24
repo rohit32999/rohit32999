@@ -4,6 +4,7 @@
 rohit32999/rohit32999 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+![Banner](https://github.com/user-attachments/assets/221b8f9b-40e3-4089-ad96-90c3ee00dbab)
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=2500&lines=Hi+There!+👋;+I'm+Rohit..;" />
