@@ -20,10 +20,6 @@ You can click the Preview link to take a look at your changes.
 
 <h2 align="center">A tech enthusiast from India.. 💻</h2>
 
-![Rohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohit32999&show_icons=true&theme=radical)
-
-
-
 ```python
 Interests = ["Coding", "Problem Solving", "Graphic Editing", "Photography", "Sports"]
 Languages = ["C", "C++", "Python", "Java", "HTML", "CSS", "JavaScript"]
@@ -38,6 +34,8 @@ Tech Stacks = ["ReactJs", "NextJs", "NodeJs", "Tailwind CSS", "Bootstrap"]
 
 <!-- GIF -->
 ![JavaScript](https://github.com/rohit32999/rohit32999/assets/97951485/bf08f648-6ff2-4fd6-8b31-496fab371713)
+
+![Rohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohit32999&show_icons=true&theme=radical)
 
 
 # ⚒️ My weapons :
