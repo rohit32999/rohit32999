@@ -49,10 +49,10 @@ Tech Stacks = ["ReactJs", "NextJs", "NodeJs", "Tailwind CSS", "Bootstrap"]
 
 </div>
 
-
+<div align="center">
 
 ![snake gif](https://github.com/rohit32999/rohit32999/blob/output/github-snake-dark.svg)
-
+</div>
 
 <h1 align="left"> 🗣 Connect with me : </h1>
 
