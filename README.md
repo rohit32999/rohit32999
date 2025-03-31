@@ -49,6 +49,10 @@ Tech Stacks = ["ReactJs", "NextJs", "NodeJs", "Tailwind CSS", "Bootstrap"]
 
 </div>
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=rohit32999&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=rohit32999&theme=radical&hide_border=true)<br/>
+
 
 
 # 🏆 GitHub Trophies :
