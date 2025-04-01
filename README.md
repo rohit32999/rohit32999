@@ -18,7 +18,7 @@ You can click the Preview link to take a look at your changes.
 <!-- GIF -->
 
 
-<h2 align="center">A tech enthusiast from India.. 💻</h2>
+<h2 align="center">💻 A tech enthusiast from India. </h2>
 
 ```python
 Interests = ["Coding", "Problem Solving", "Graphic Editing", "Photography", "Sports"]
