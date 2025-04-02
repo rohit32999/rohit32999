@@ -45,18 +45,10 @@ Tech Stacks = ["ReactJs", "NextJs", "NodeJs", "Tailwind CSS", "Bootstrap"]
     <a href="https://leetcode.com/u/rohitchakrabarti/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif" alt="jyot" height="200" width="200" /></a>
    <a href="https://leetcode.com/u/rohitchakrabarti/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" alt="jyot" height="200" width="200" /></a>
 </p>
-
-
 </div>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=rohit32999&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=rohit32999&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rohit32999&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-
-# 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=rohit32999&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=rohit32999&theme=discord&no-frame=false&no-bg=true&margin-w=4)
 
 # ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
