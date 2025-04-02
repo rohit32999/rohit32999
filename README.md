@@ -6,6 +6,8 @@ You can click the Preview link to take a look at your changes.
 --->
 ![Banner](https://github.com/user-attachments/assets/670436f2-f2af-48ac-80ef-a46e5c92bb45)
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rohit32999&label=Profile%20views&color=0e75b6&style=flat" alt="sukritdeb" /> </p>
+
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=2500&lines=Hi+There!+👋;+I'm+Rohit..;" />
