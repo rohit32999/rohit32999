@@ -53,6 +53,8 @@ Tech Stacks = ["ReactJs", "NextJs", "NodeJs", "Tailwind CSS", "Bootstrap"]
 # ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+<p align = "center"><a href="https://buymeacoffee.com/rohit32999"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" width="170" alt="arna2001" /></a></p><br><br>
+
 <div align="center">
     
 ![snake gif](https://github.com/rohit32999/rohit32999/blob/output/github-snake-dark.svg)
