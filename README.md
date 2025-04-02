@@ -25,7 +25,7 @@ You can click the Preview link to take a look at your changes.
 ```python
 Interests = ["Coding", "Problem Solving", "Graphic Editing", "Photography", "Sports"]
 Languages = ["C", "C++", "Python", "Java", "HTML", "CSS", "JavaScript"]
-Tech Stacks = ["ReactJs", "NextJs", "NodeJs", "Tailwind CSS", "Bootstrap"]
+Libraries And Frameworks = ["MongoDB", "Express.js", "React", "Node.js", "Next.js", "Tailwind CSS", "Material UI"]
 ```
 <!-- <div align=center>
   
