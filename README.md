@@ -50,6 +50,10 @@ Libraries And Frameworks = ["MongoDB", "Express.js", "React", "Node.js", "Next.j
 </p>
 </div>
 
+## 📈 GitHub Stats
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=rohit32999&theme=dark)](https://git.io/streak-stats)
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=rohit32999&theme=discord&no-frame=false&no-bg=true&margin-w=4)
 
