@@ -50,6 +50,8 @@ Libraries And Frameworks = ["MongoDB", "Express.js", "React", "Node.js", "Next.j
 </p>
 </div>
 
+[![Holopin board](https://holopin.me/rohit32999)](https://holopin.io/@rohit32999)
+
 ## 📈 GitHub Stats
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=rohit32999&theme=dark)](https://git.io/streak-stats)
