@@ -58,7 +58,7 @@ Libraries And Frameworks = ["MongoDB", "Express.js", "React", "Node.js", "Next.j
 
 </div>
 
-<h1 align="left"> 🗣 Connect with me : </h1>
+<h1 align="left"> 🗣 Connect with me </h1>
 
 <div align="center">
 <a href="mailto:pedro.sales.rohitchakrabarti6560@gmail.com">
