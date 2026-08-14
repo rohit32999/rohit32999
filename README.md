@@ -49,10 +49,7 @@ Libraries And Frameworks = ["MongoDB", "Express.js", "React", "Node.js", "Next.j
 
 [![Holopin board](https://holopin.me/rohit32999)](https://holopin.io/@rohit32999)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=rohit32999&theme=discord&no-frame=false&no-bg=true&margin-w=4)
-
-# ✍️ Random Dev Quote
+# ✍️ Quote of the day
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <p align = "center"><a href="https://buymeacoffee.com/rohit32999"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" width="170" alt="arna2001" /></a></p><br><br>
